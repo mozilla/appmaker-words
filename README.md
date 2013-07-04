@@ -73,11 +73,13 @@ Polymer (http://www.polymer-project.org/) and others to identify an abstraction 
 Assumptions
 ----------------
 
-We'll be targeting the web stack that Mozilla is currently building.  The intent is for this to be ubiquitous, but one fight at a time.  We'll focus on mobile, where we expect FirefoxOS will have the best early API support, but where Android (and the WebRT delivered as part of Firefox for Android) will have the most penetration for a while to come.  We will thus be targeting users with Android phones capable of running whatever version of Firefox for Android will have the WebRT capabilities built in.
+Firefox+Android: We'll be targeting the web stack that Mozilla is currently building.  The intent is for this to be ubiquitous, but one fight at a time.  We'll focus on mobile, where we expect FirefoxOS will have the best early API support, but where Android (and the WebRT delivered as part of Firefox for Android) will have the most penetration for a while to come.  We will thus be targeting users with Android phones capable of running whatever version of Firefox for Android will have the WebRT capabilities built in.
 
-
+Requirements will change with user feedback: there are a bunch of assumptions and hypotheses in the plan set above.  It is exceedingly likely that many of these are wrong.  We will do our best to appropriately challenge these assumptions based on actual user feedback.
 
 
 Summer 2013
 ----------
+
+One of the milestones for the project will be a set of testing sessions / demos at Campus Party UK in September 2013. The goal of those sessions is to validate with people who are "likely" but not actively targeted potential users, and to see what about AppMaker resonates with them, whether the "pitch" is exciting, and, most importantly, what about the actual authoring experience works for them or not.
 
